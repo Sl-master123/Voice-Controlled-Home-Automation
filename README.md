@@ -11,6 +11,7 @@
 - **💡 Smart Appliance Control** - Automate lights, fans, and doors.
 
 ---
+![WhatsApp Image 2025-03-02 at 11 07 37 (1)](https://github.com/user-attachments/assets/34ed2153-022b-4170-a058-0a7f3ac6f4bc)
 
 ## **Project Structure**
 ```
@@ -71,14 +72,19 @@ We welcome contributions! 🚀 To contribute:
 
 ## **Upload Your Own Version to GitHub**
 Use this Bash script to upload your modifications easily:
+![WhatsApp Image 2025![WhatsApp Image 2025-03-02 at 11 07 34](https://github.com/user-attachments/assets/bb9d93fd-f501-4295-9695-90012f47e3b9)
+-03-02 at 11 07 33 (1)](https://github.com/user-attachments/assets/f5e0467e-174a-4d2b-a097-5b4b7a87d9ec)
+
+![WhatsApp Image 2025-03-02 at 11 35 04](https://github.com/user-attachments/assets/ed6316e5-8fef-47ca-95fb-d3e76371f4c6)
 
 ```bash
 #!/bin/bash
 
 # Define variables
-REPO_NAME="Voice-Controlled-Home-Automation"
-GIT_USER="YourGitHubUsername"
-GIT_EMAIL="your.email@example.com"
+REPO_NAME=![Uploading WhatsApp Image 2025-03-02 at 11.07.33 (1).jpeg…]()
+"Voice-Controlled-Home-Automation"
+GIT_USER="Sl-master123"
+GIT_EMAIL="vikumkalhara16@gmail.com"
 REMOTE_URL="https://github.com/$GIT_USER/$REPO_NAME.git"
 
 # Initialize Git repository
@@ -112,6 +118,8 @@ echo "✅ Project uploaded successfully!"
 Run this script in your project folder to initialize and push to GitHub.
 
 ---
+
+
 
 ## **License**
 This project is licensed under the **MIT License**.
