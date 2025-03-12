@@ -32,7 +32,7 @@ Voice-Controlled-Home-Automation/
 ## **Setup & Installation**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YourGitHubUsername/Voice-Controlled-Home-Automation.git
+git clone https://github.com/YourGitHubUsername/Voice-Controlled-Home-Automation.git](https://github.com/Sl-master123/Voice-Controlled-Home-Automation.git
 cd Voice-Controlled-Home-Automation
 ```
 
