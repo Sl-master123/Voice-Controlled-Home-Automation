@@ -78,41 +78,10 @@ Use this Bash script to upload your modifications easily:
 ![WhatsApp Image 2025-03-02 at 11 35 04](https://github.com/user-attachments/assets/ed6316e5-8fef-47ca-95fb-d3e76371f4c6)
 
 ```bash
-#!/bin/bash
-
-# Define variables
-REPO_NAME=![Uploading WhatsApp Image 2025-03-02 at 11.07.33 (1).jpeg…]()
-"Voice-Controlled-Home-Automation"
-GIT_USER="Sl-master123"
-GIT_EMAIL="vikumkalhara16@gmail.com"
-REMOTE_URL="https://github.com/$GIT_USER/$REPO_NAME.git"
-
-# Initialize Git repository
-echo "🚀 Initializing Git repository..."
 git init
-git config --global user.name "$GIT_USER"
-git config --global user.email "$GIT_EMAIL"
-
-# Create README.md
-echo "📜 Creating README.md..."
-echo "# $REPO_NAME" > README.md
-echo "A smart voice-controlled home automation system using Arduino and IoT." >> README.md
-
-# Add files & commit changes
-echo "📂 Adding project files..."
-git add .
-git commit -m "🚀 Initial commit: Added Arduino Mega, Uno RFID & ESP8266 Code"
-
-# Connect to GitHub
-echo "🔗 Connecting to GitHub..."
-git branch -M main
-git remote add origin "$REMOTE_URL"
-
-# Push to GitHub
-echo "📤 Pushing to GitHub..."
-git push -u origin main
-
-echo "✅ Project uploaded successfully!"
+```
+```bash
+git clone [link]
 ```
 
 Run this script in your project folder to initialize and push to GitHub.
